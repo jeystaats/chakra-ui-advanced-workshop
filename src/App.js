@@ -35,7 +35,7 @@ function App() {
         <HStack w="full">
           <Box>
             <Heading>Messy card</Heading>
-            <MessyCard my={2} />
+            <MessyCard my={4} />
           </Box>
           <Spacer></Spacer>
           <Box>
